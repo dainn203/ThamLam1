@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Graph.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  Graph.vcxproj -> D:\Tài Liệu Học Tập Đại Học\HK Hè 2024\PTTKTT\BaiTapLon\ThamLam\Graph\Debug\doiTien.exe
