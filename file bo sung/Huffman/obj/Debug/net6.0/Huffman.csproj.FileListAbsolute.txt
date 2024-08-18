@@ -1,0 +1,14 @@
+D:\bt\Phan2\Huffman\bin\Debug\net6.0\Huffman.exe
+D:\bt\Phan2\Huffman\bin\Debug\net6.0\Huffman.deps.json
+D:\bt\Phan2\Huffman\bin\Debug\net6.0\Huffman.runtimeconfig.json
+D:\bt\Phan2\Huffman\bin\Debug\net6.0\Huffman.dll
+D:\bt\Phan2\Huffman\bin\Debug\net6.0\Huffman.pdb
+D:\bt\Phan2\Huffman\obj\Debug\net6.0\Huffman.GeneratedMSBuildEditorConfig.editorconfig
+D:\bt\Phan2\Huffman\obj\Debug\net6.0\Huffman.AssemblyInfoInputs.cache
+D:\bt\Phan2\Huffman\obj\Debug\net6.0\Huffman.AssemblyInfo.cs
+D:\bt\Phan2\Huffman\obj\Debug\net6.0\Huffman.csproj.CoreCompileInputs.cache
+D:\bt\Phan2\Huffman\obj\Debug\net6.0\Huffman.dll
+D:\bt\Phan2\Huffman\obj\Debug\net6.0\refint\Huffman.dll
+D:\bt\Phan2\Huffman\obj\Debug\net6.0\Huffman.pdb
+D:\bt\Phan2\Huffman\obj\Debug\net6.0\Huffman.genruntimeconfig.cache
+D:\bt\Phan2\Huffman\obj\Debug\net6.0\ref\Huffman.dll

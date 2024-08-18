@@ -1,0 +1,14 @@
+D:\bt\Phan2\TravelingSalesman\bin\Debug\net6.0\DuongDiGiaoHang.exe
+D:\bt\Phan2\TravelingSalesman\bin\Debug\net6.0\DuongDiGiaoHang.deps.json
+D:\bt\Phan2\TravelingSalesman\bin\Debug\net6.0\DuongDiGiaoHang.runtimeconfig.json
+D:\bt\Phan2\TravelingSalesman\bin\Debug\net6.0\DuongDiGiaoHang.dll
+D:\bt\Phan2\TravelingSalesman\bin\Debug\net6.0\DuongDiGiaoHang.pdb
+D:\bt\Phan2\TravelingSalesman\obj\Debug\net6.0\DuongDiGiaoHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\bt\Phan2\TravelingSalesman\obj\Debug\net6.0\DuongDiGiaoHang.AssemblyInfoInputs.cache
+D:\bt\Phan2\TravelingSalesman\obj\Debug\net6.0\DuongDiGiaoHang.AssemblyInfo.cs
+D:\bt\Phan2\TravelingSalesman\obj\Debug\net6.0\DuongDiGiaoHang.csproj.CoreCompileInputs.cache
+D:\bt\Phan2\TravelingSalesman\obj\Debug\net6.0\DuongDiGiaoHang.dll
+D:\bt\Phan2\TravelingSalesman\obj\Debug\net6.0\refint\DuongDiGiaoHang.dll
+D:\bt\Phan2\TravelingSalesman\obj\Debug\net6.0\DuongDiGiaoHang.pdb
+D:\bt\Phan2\TravelingSalesman\obj\Debug\net6.0\DuongDiGiaoHang.genruntimeconfig.cache
+D:\bt\Phan2\TravelingSalesman\obj\Debug\net6.0\ref\DuongDiGiaoHang.dll
